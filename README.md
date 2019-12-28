@@ -1,11 +1,17 @@
 # NLP-IMDBSentimentAnalysis
 
 Model summary : I have used the following layers in order -
+
 Embedding layer(build my own)
+
 Conv1D layer
+
 Global Max Pooling
+
 Dropout
+
 Dense/Full connection layer
+
 
 Optimization is a process of searching for parameters that minimize or maximize our functions.
 When we train machine learning model, we usually use indirect optimization.
