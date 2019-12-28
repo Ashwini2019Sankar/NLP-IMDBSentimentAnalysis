@@ -35,9 +35,15 @@ Model loss summary : At epoch 0, the test loss is less than Train loss. It conti
 until Epoch 3, then Train loss is same as Test loss.
 
 I used Grid search to get the best parameters for achieving best accuracy & are as follows :
-Embedding dimension : 128,
-Embedding_regularizer : None,
-Num of conv_layers : 1,
-Num of fc_layers : 1,
+
+Embedding dimension : 128
+
+Embedding_regularizer : None
+
+Num of conv_layers : 1
+
+Num of fc_layers : 1
+
 Batch_size : 256
+
 Best accuracy : 87.26% on Validation dataset
